@@ -14,7 +14,7 @@ I am a Fifth-year B.Sc. student at the [University of Tehran](https://ut.ac.ir/e
 
 My research interests lie in natural language processing. I have trained many models for solving problems related to toxic content detection, text summarization, sentiment analysis, textual inference, and language modeling. Also, I worked on computer vision for a while, but my expertise is NLP.
 
-Now, I'm looking for NLP positions in Canada or the US to pursue my education in my field of interest. It will be helpful to notify me if you were interested in working with me!  
+Now, I'm looking for NLP positions in Canada or the US to pursue my education in my field of interest. It would be helpful to notify me if you were interested in working with me!  
 
 ## My News
 - 2021.8: Our long paper entitled "ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization" has been accepted as a long paper for the main conference of EMNLP 2021! More details will be available soon!
