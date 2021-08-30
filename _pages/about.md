@@ -22,4 +22,4 @@ Now, I'm looking for NLP positions in Canada or the US to pursue my education in
 - 2021.8: Our paper entitled "[UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models](https://aclanthology.org/2021.semeval-1.136/)" has been published in SemEval 2021.
 - 2019.9: I got the FOE 2018-2019 award from the University of Tehran. 
 - 2018.9: I got the FOE 2017-2018 award from the University of Tehran.
-- 2017.9: Started my B.Cs. at the University of Tehran!   
+- 2017.9: Started my B.Sc. at the University of Tehran!   
