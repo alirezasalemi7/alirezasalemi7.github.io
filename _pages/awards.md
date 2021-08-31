@@ -6,6 +6,9 @@ author_profile: true
 
 ## Awards
 
+- 2021.9: __The Best Thesis Award in Computer Engineering__\
+B.Sc. thesis was selected as the best thesis in the spring 2o21 semester.
+
 - 2020.9: __University of Tehran Scholarship__ \
 Received scholarship from the University of Tehran Sponsors Foundation as an exceptional talent.
 
