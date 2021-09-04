@@ -24,7 +24,7 @@ This research aimed to develop new Transformer-based language models that perfor
 
 - **Toxic Span Detection** \
 under supervision of Dr. [Behnam Bahrak](https://ece.ut.ac.ir/en/~bahrak) and Dr. [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery). \
-This research aimed to develop new machine learning models to annotate toxic words of a tweet. We used statistic-based and keyword-based methods as traditional methods of detecting toxicity and compared them with new neural techniques like attention-based and NER-based models. Finally, Our paper entitled "[textit{UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models](https://aclanthology.org/2021.semeval-1.136/)" was published in [SemEval 2021](https://aclweb.org/portal/content/semeval-2021-international-workshop-semantic-evaluation). \
+This research aimed to develop new machine learning models to annotate toxic words of a tweet. We used statistic-based and keyword-based methods as traditional methods of detecting toxicity and compared them with new neural techniques like attention-based and NER-based models. Finally, Our paper entitled "[UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models](https://aclanthology.org/2021.semeval-1.136/)" was published in [SemEval 2021](https://aclweb.org/portal/content/semeval-2021-international-workshop-semantic-evaluation). \
 [\[Code\]](https://github.com/alirezasalemi7/SemEval2021-Toxic-Spans-Detection) / [\[Paper\]](https://aclanthology.org/2021.semeval-1.136/)
 
 - **Decentralized Enforcement in Message-Based Systems** \
