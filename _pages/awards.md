@@ -4,7 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Awards
+## Awards & Honors
 
 - 2021.9: __The Best Thesis Award in Computer Engineering__\
 B.Sc. thesis was selected as the best thesis in the spring 2021 semester. \
