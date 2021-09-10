@@ -20,7 +20,7 @@ Now, I'm looking for NLP positions in Canada or the US to pursue my education in
 
 - 2021.9: I got the [Best Thesis Award in Computer Engineering](https://alirezasalemi7.github.io/files/BScTAward.jpg) for my B.Sc. thesis!
 
-- 2021.8: Our long paper entitled "ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization" has been accepted as a long paper for the main conference of EMNLP 2021! More details will be available soon!
+- 2021.8: Our long paper entitled "[ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization](https://arxiv.org/abs/2109.04098)" has been accepted as a long paper for the main conference of EMNLP 2021!
 - 2021.8: I have defended my bachelor thesis about language modeling and summarization.
 - 2021.8: Our paper entitled "[UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models](https://aclanthology.org/2021.semeval-1.136/)" has been published in SemEval 2021.
 - 2019.9: I got the FOE 2018-2019 award from the University of Tehran. 

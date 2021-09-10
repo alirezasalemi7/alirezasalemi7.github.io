@@ -9,18 +9,18 @@ author_profile: true
 - **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** \
 __Alireza Salemi__, Emad Kebriaei, Ghazal Neisi Minaei and Azadeh Shakery \
 To appear in proceedings of __EMNLP-2021__. \
-[\[Code\]]() / [\[Paper\]]()
+[\[Code\]](https://github.com/alirezasalemi7/ARMAN) / [\[Paper\]](https://arxiv.org/abs/2109.04098)
 - **UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models** \
 __Alireza Salemi__, Nazanin Sabri, Emad Kebriaei, Behnam Bahrak and Azadeh Shakery \
-Proceedings of the 15th International Workshop on Semantic Evaluation (__SemEval-2021__). \
+Proceedings of __SemEval-2021 co-located with ACL-IJCNLP-2021__. \
 [\[Code\]](https://github.com/alirezasalemi7/SemEval2021-Toxic-Spans-Detection) / [\[Paper\]](https://aclanthology.org/2021.semeval-1.136/)  
 
 ## Research Experiences
 
 - **Pre-training Language Models with Focus on Summarization** \
 under supervision of Dr. [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery). \
-This research aimed to develop new Transformer-based language models that perform specifically well in summarization. We suggested three novel pre-training objectives and a new abstractive summarization dataset for the Persian language. Furthermore, we tested our models in few-shot and zero-shot situations too. Our models get SOTA results in all available Persian summarization datasets and many NLU tasks. Finally, Our paper entitled "[ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization]()" has been accepted in [EMNLP 2021](https://2021.emnlp.org/). \
-[\[Code\]]() / [\[Paper\]]()
+This research aimed to develop new Transformer-based language models that perform specifically well in summarization. We suggested three novel pre-training objectives and a new abstractive summarization dataset for the Persian language. Furthermore, we tested our models in few-shot and zero-shot situations too. Our models get SOTA results in all available Persian summarization datasets and many NLU tasks. Finally, Our paper entitled "[ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization](https://arxiv.org/abs/2109.04098)" has been accepted in [EMNLP 2021](https://2021.emnlp.org/). \
+[\[Code\]](https://github.com/alirezasalemi7/ARMAN) / [\[Paper\]](https://arxiv.org/abs/2109.04098)
 
 - **Toxic Span Detection** \
 under supervision of Dr. [Behnam Bahrak](https://ece.ut.ac.ir/en/~bahrak) and Dr. [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery). \
