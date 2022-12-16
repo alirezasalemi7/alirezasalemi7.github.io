@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alireza Salemi"
 title_separator          : "-"
 name                     : &name "Alireza Salemi"
-description              : &description "Fifth year B.Sc. student as University of Tehran."
+description              : &description "First-year Ph.D. student as the University of Massachusetts Amherst."
 url                      : https://alirezasalemi7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alirezasalemi7.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alireza Salemi"
   avatar           : "profile.png"
-  bio              : "Fifth-year B.Sc. student at University of Tehran."
-  location         : "Tehran, Iran"
+  bio              : "First-year Ph.D. student as the University of Massachusetts Amherst."
+  location         : "Amherst, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dCOLDf4AAAAJ&hl=en"
-  email            : "alireza.salemi@ut.ac.ir"
+  email            : "asalemi@cs.umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
