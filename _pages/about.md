@@ -16,6 +16,10 @@ My research interests lie in natural language processing, information retrieval,
 
 ## News
 
+- 2023.4: Checkout our new pre-print, "[LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406)" about personalizing large language models!
+
+- 2023.4: Our paper, "[A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2304.13649)" has been accepted as a long paper for [SIGIR 2023](https://sigir.org/sigir2023/).
+
 - 2022.9: Started my Ph.D. at the University of Massachusetts Amherst!
 
 -  2021.10: Strated my job as NLP data scientist at [Sotoon](https://sotoon.ir/)! 
