@@ -20,7 +20,7 @@ Proceedings of __SIGIR 2023__. \
 - **PEACH: Pre-Training Sequence-to-Sequence Multilingual Models for Translation with Semi-Supervised Pseudo-Parallel Document Generation** \
 __Alireza Salemi__, Amirhossein Abaskohi, Sara Tavakoli, Yadollah Yaghoobzadeh and Azadeh Shakery \
 Proceedings of __LoResMT 2023__. \
-[\[Code\]](https://github.com/AmirAbaskohi/PEACH) / [\[Paper\]]([https://arxiv.org/abs/2109.04098](https://aclanthology.org/2023.loresmt-1.3/)
+[\[Code\]](https://github.com/AmirAbaskohi/PEACH) / [\[Paper\]](https://aclanthology.org/2023.loresmt-1.3/)
 
 - **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** \
 __Alireza Salemi__, Emad Kebriaei, Ghazal Neisi Minaei and Azadeh Shakery \
