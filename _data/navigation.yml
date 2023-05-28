@@ -3,11 +3,8 @@ main:
   - title: "Education"
     url: /education/
     
-  - title: "Publications & Research"
+  - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /projects/
   
   - title: "Awards & Honors"
     url: /awards/
