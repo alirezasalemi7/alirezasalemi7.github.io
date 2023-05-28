@@ -6,6 +6,12 @@ author_profile: true
 
 ## Awards & Honors
 
+- 2023.5: __W. Bruce Croft Graduate Scholarship__\
+Given to students whose computer science research area is information retrieval or natural language processing.
+
+- 2022.9: __UMass Amherst CICS Scholarship__\
+4k\$ scholarship given to selected entering graduate students.
+
 - 2021.9: __The Best Thesis Award in Computer Engineering__\
 B.Sc. thesis was selected as the best thesis in the spring 2021 semester. \
 [\[certificate\]](https://alirezasalemi7.github.io/files/BScTAward.jpg)
