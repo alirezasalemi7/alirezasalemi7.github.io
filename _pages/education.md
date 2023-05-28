@@ -9,6 +9,7 @@ author_profile: true
 - Relevant course work:
     - Information Retrieval
     - Computer Vision
+    - Adv. Natural Language Processing
 
 ## B.Sc.
 - B.Sc. student in __Computer Engineering__ at __[University of Tehran](https://ut.ac.ir/en)__.
