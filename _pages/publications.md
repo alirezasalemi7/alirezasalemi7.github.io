@@ -9,8 +9,13 @@ author_profile: true
 
 - **LaMP: When Large Language Models Meet Personalization** \
 __Alireza Salemi__, Sheshera Mysore, Michael Bendersky and Hamed Zamani \
-arXiv. \
+arXiv 2023. \
 [\[Code\]](https://github.com/LaMP-Benchmark/LaMP) / [\[Paper\]](https://arxiv.org/abs/2304.11406) / [\[Benchmark Website\]](https://lamp-benchmark.github.io/)
+
+- **Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering** \
+__Alireza Salemi__, Mahta Rafiee and Hamed Zamani \
+Proceedings of __ICTIR 2023__. \
+[\[Code\]]() / [\[Paper\]]()
 
 - **A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering** \
 __Alireza Salemi__, Juan Altmayer Pizzorno and Hamed Zamani \
