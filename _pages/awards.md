@@ -10,7 +10,7 @@ author_profile: true
 Given to students whose computer science research area is information retrieval or natural language processing.
 
 - 2022.9: __UMass Amherst CICS Scholarship__\
-4k\$ scholarship given to selected entering graduate students.
+Given to selected entering graduate students.
 
 - 2021.9: __The Best Thesis Award in Computer Engineering__\
 B.Sc. thesis was selected as the best thesis in the spring 2021 semester. \
