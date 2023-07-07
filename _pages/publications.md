@@ -15,7 +15,7 @@ arXiv 2023. \
 - **Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering** \
 __Alireza Salemi__, Mahta Rafiee and Hamed Zamani \
 Proceedings of __ICTIR 2023__. \
-[\[Code\]]() / [\[Paper\]]()
+[\[Code\]](https://github.com/alirezasalemi7/pretraining-multimodal-dense-retriever-for-okvqa) / [\[Paper\]](https://arxiv.org/abs/2306.16478)
 
 - **A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering** \
 __Alireza Salemi__, Juan Altmayer Pizzorno and Hamed Zamani \
