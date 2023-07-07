@@ -16,7 +16,7 @@ My research interests lie in natural language processing and machine learning wh
 
 ## News
 
-- 2023.6: Our paper, "[Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering]()" has been accepted at [ICTIR 2023](https://sigir.org/ictir2023/).
+- 2023.6: Our paper, "[Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering](https://arxiv.org/abs/2306.16478)" has been accepted at [ICTIR 2023](https://sigir.org/ictir2023/).
 
 - 2023.5: I am honored to receive the "W. Bruce Croft Graduate Scholarship" for my research.
 
