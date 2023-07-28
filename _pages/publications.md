@@ -17,7 +17,7 @@ __Alireza Salemi__, Mahta Rafiee and Hamed Zamani \
 Proceedings of __ICTIR 2023__. \
 [\[Code\]](https://github.com/alirezasalemi7/pretraining-multimodal-dense-retriever-for-okvqa) / [\[Paper\]](https://arxiv.org/abs/2306.16478)
 
-- **A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering** \
+- **A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering** <font color='yellow'> **\[Best Student Paper Award\]** </font> \
 __Alireza Salemi__, Juan Altmayer Pizzorno and Hamed Zamani \
 Proceedings of __SIGIR 2023__. \
 [\[Code\]](https://github.com/alirezasalemi7/DEDR-MM-FiD/tree/main) / [\[Paper\]](https://arxiv.org/abs/2304.13649)
