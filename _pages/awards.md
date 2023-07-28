@@ -6,6 +6,9 @@ author_profile: true
 
 ## Awards & Honors
 
+- 2023.7: __The Best Student Paper Award @ SIGIR 2023__\
+The award given to the best paper mainly written by a student.
+
 - 2023.5: __W. Bruce Croft Graduate Scholarship__\
 Given to students whose computer science research area is information retrieval or natural language processing.
 
