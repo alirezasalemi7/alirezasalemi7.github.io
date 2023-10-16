@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alireza Salemi"
   avatar           : "profile.png"
-  bio              : "First-year Ph.D. student as the University of Massachusetts Amherst."
+  bio              : "Ph.D. student as the University of Massachusetts Amherst."
   location         : "Amherst, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dCOLDf4AAAAJ&hl=en"
@@ -113,7 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  semanticscholar  : "https://www.semanticscholar.org/author/Alireza-Salemi/2073044451"
 
 # Reading Files
 include:
