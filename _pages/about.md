@@ -12,9 +12,11 @@ Hi, I'm __Alireza Salemi (علیرضا سالمی)__ [\[CV\]](https://alirezasal
 
 I am a second-year Ph.D. student at the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/) in [University of Massachusetts Amherst](https://www.umass.edu/). I am working at the [Center for Intelligent Information Retrieval](https://ciir.cs.umass.edu/) under the supervision of [Hamed Zamani](https://groups.cs.umass.edu/zamani/?_gl=1%2Aqu9jxh%2A_ga%2AMTc0MTM3NzM4LjE2NjMwMzcyMDY.%2A_ga_21RLS0L7EB%2AMTY2NDE1OTU3OC40LjEuMTY2NDE2MTIxNS4wLjAuMA..&_ga=2.267640839.822767476.1664150089-174137738.1663037206). Previously, I was a B.Sc. student at the [school of electrical and computer engineering](https://ece.ut.ac.ir/en/ece) in [University of Tehran](https://ut.ac.ir/en), where I worked on natural language processing under the supervision of [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery). 
 
-My research interests lie in natural language processing and machine learning when they meet information retrieval (i.e., retrieval-enhanced machine learning). Recently, I have worked on personalizing large language models, multi-modal information retrieval, and multi-modal knowledge grounding. Previously, I worked on text summarization, translation, and hate speech detection.
+My research interests lie in natural language processing and machine learning when they meet information retrieval, i.e., retrieval-enhanced machine learning (a.k.a, RAG). Recently, I have been working on personalizing large language models, multi-modal information retrieval, multi-modal knowledge grounding, and designing a search engine for all RAG LLMs (like Google for LLMs but tailored to their needs)! Previously, I worked on text summarization, translation, and hate speech detection.
 
 ## News
+
+- 2024.3: 3 papers got accepted to SIGIR 2024! Look at my [publications](https://alirezasalemi7.github.io/publications/) for details!
 
 - 2023.7: I am honored to receive "The Best Student Paper Award" at [SIGIR 2023](https://sigir.org/sigir2023/) for our paper, "[A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2304.13649)."
 
