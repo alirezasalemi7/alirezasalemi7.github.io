@@ -7,6 +7,21 @@ author_profile: true
 
 ## Publications
 
+- **Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models** \
+__Alireza Salemi__ and Hamed Zamani \
+Proceedings of __SIGIR 2024__. \
+[\[Code\]](https://github.com/alirezasalemi7/uRAG) / [\[Paper\]]()
+
+- **Evaluating Retrieval Quality in Retrieval-Augmented Generation** \
+__Alireza Salemi__ and Hamed Zamani \
+Proceedings of __SIGIR 2024__. \
+[\[Code\]](https://github.com/alirezasalemi7/eRAG) / [\[Paper\]](https://arxiv.org/abs/2404.13781)
+
+- **Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation** \
+__Alireza Salemi__, Surya Kallumadi and Hamed Zamani \
+Proceedings of __SIGIR 2024__. \
+[\[Code\]](https://github.com/LaMP-Benchmark/LaMP) / [\[Paper\]](https://arxiv.org/abs/2404.05970)
+
 - **LaMP: When Large Language Models Meet Personalization** \
 __Alireza Salemi__, Sheshera Mysore, Michael Bendersky and Hamed Zamani \
 arXiv 2023. \
