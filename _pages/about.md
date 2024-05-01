@@ -16,7 +16,7 @@ My research interests lie in natural language processing and machine learning wh
 
 ## News
 
-- 2024.3: 3 papers got accepted to SIGIR 2024! Look at my [publications](https://alirezasalemi7.github.io/publications/) for details!
+- 2024.3: 3 papers got accepted to [SIGIR 2024](https://sigir-2024.github.io/)! Look at my [publications](https://alirezasalemi7.github.io/publications/) for details!
 
 - 2023.7: I am honored to receive "The Best Student Paper Award" at [SIGIR 2023](https://sigir.org/sigir2023/) for our paper, "[A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2304.13649)."
 
