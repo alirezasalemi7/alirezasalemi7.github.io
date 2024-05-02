@@ -10,7 +10,7 @@ author_profile: true
 - **Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models** \
 __Alireza Salemi__ and Hamed Zamani \
 Proceedings of __SIGIR 2024__. \
-[\[Code\]](https://github.com/alirezasalemi7/uRAG) / [\[Paper\]]()
+[\[Code\]](https://github.com/alirezasalemi7/uRAG) / [\[Paper\]](https://arxiv.org/abs/2405.00175)
 
 - **Evaluating Retrieval Quality in Retrieval-Augmented Generation** \
 __Alireza Salemi__ and Hamed Zamani \
