@@ -24,7 +24,7 @@ Proceedings of __SIGIR 2024__. \
 
 - **LaMP: When Large Language Models Meet Personalization** \
 __Alireza Salemi__, Sheshera Mysore, Michael Bendersky and Hamed Zamani \
-arXiv 2023. \
+Proceedings of __ACL 2024__. \
 [\[Code\]](https://github.com/LaMP-Benchmark/LaMP) / [\[Paper\]](https://arxiv.org/abs/2304.11406) / [\[Benchmark Website\]](https://lamp-benchmark.github.io/)
 
 - **Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering** \
