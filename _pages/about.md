@@ -15,6 +15,7 @@ I am a second-year Ph.D. student at the [Manning College of Information and Comp
 My research interests lie in natural language processing and machine learning when they meet information retrieval, i.e., retrieval-enhanced machine learning (a.k.a, RAG). Recently, I have been working on personalizing large language models, multi-modal information retrieval, multi-modal knowledge grounding, and designing a search engine for all RAG LLMs (like Google for LLMs but tailored to their needs)! Previously, I worked on text summarization, translation, and hate speech detection.
 
 ## News
+- 2024.5: Our paper, "[LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406)" about personalizing large language models got accepted to [ACL 2024](https://2024.aclweb.org/) main conference!
 
 - 2024.3: 3 papers got accepted to [SIGIR 2024](https://sigir-2024.github.io/)! Look at my [publications](https://alirezasalemi7.github.io/publications/) for details!
 
