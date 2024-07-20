@@ -7,6 +7,16 @@ author_profile: true
 
 ## Publications
 
+- **Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
+To Eun Kim, __Alireza Salemi__, Andrew Drozdov, Fernando Diaz, Hamed Zamani \
+arXiv 2024. \
+[\[Paper\]](https://arxiv.org/abs/2407.12982)
+
+- **LongLaMP: A Benchmark for Personalized Long-form Text Generation** \
+Ishita Kumar, Snigdha Viswanathan, Sushrita Yerra, __Alireza Salemi__, Ryan Rossi, Franck Dernoncourt, Hanieh Deilamsalehy, Xiang Chen, Ruiyi Zhang, Shubham Agarwal, Nedim Lipka, Hamed Zamani \
+arXiv 2024. \
+[\[Paper\]](https://www.arxiv.org/abs/2407.11016)
+
 - **LaMP: When Large Language Models Meet Personalization** \
 __Alireza Salemi__, Sheshera Mysore, Michael Bendersky and Hamed Zamani \
 Proceedings of __ACL 2024__. \
