@@ -15,6 +15,9 @@ I am a second-year Ph.D. student at the [Manning College of Information and Comp
 My research interests lie in natural language processing and machine learning when they meet information retrieval, i.e., retrieval-enhanced machine learning (a.k.a, RAG). Recently, I have been working on personalizing large language models, multi-modal information retrieval, multi-modal knowledge grounding, and designing a search engine for all RAG LLMs (like Google for LLMs but tailored to their needs)! Previously, I worked on text summarization, translation, and hate speech detection.
 
 ## News
+
+- 2024.7: I am honored to receive "The Best Short Paper Award" at [SIGIR 2024](https://sigir.org/sigir2024/) for our paper, "[Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://arxiv.org/abs/2404.13781)."
+
 - 2024.6: I started as a Student Researcher at [Google Research](https://research.google/) to work on personalizing LLMs!
   
 - 2024.5: Our paper, "[LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406)" about personalizing large language models got accepted to [ACL 2024](https://2024.aclweb.org/) main conference!
