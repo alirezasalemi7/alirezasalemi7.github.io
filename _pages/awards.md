@@ -6,6 +6,9 @@ author_profile: true
 
 ## Awards & Honors
 
+- 2024.7: __The Best Short Paper Award @ SIGIR 2024__\
+The award given to the best short paper.
+
 - 2023.7: __The Best Student Paper Award @ SIGIR 2023__\
 The award given to the best paper mainly written by a student.
 
