@@ -29,7 +29,7 @@ Proceedings of __SIGIR 2024__. \
 
 - **Evaluating Retrieval Quality in Retrieval-Augmented Generation** \
 __Alireza Salemi__ and Hamed Zamani \
-Proceedings of __SIGIR 2024__. \
+Proceedings of __SIGIR 2024__. | &#127942; **Best Short Paper Award** \\
 [\[Code\]](https://github.com/alirezasalemi7/eRAG) / [\[Paper\]](https://arxiv.org/abs/2404.13781)
 
 - **Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation** \
