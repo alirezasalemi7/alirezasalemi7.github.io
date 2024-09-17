@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Publications
+- **Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models** \
+__Alireza Salemi__ and Hamed Zamani \
+arXiv 2024. \
+[\[Code\]](https://github.com/LaMP-Benchmark/LaMP) / [\[Paper\]](https://arxiv.org/abs/2409.09510)
 
 - **Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
 To Eun Kim, __Alireza Salemi__, Andrew Drozdov, Fernando Diaz, Hamed Zamani \
