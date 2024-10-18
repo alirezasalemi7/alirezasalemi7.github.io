@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Publications
+
+- **Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization** \
+__Alireza Salemi__ and Hamed Zamani \
+arXiv 2024. \
+[\[Code\]](https://github.com/alirezasalemi7/uRAG) / [\[Paper\]](https://arxiv.org/abs/2410.09942)
+
 - **Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models** \
 __Alireza Salemi__ and Hamed Zamani \
 arXiv 2024. \
