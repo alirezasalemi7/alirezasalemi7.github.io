@@ -7,6 +7,12 @@ author_profile: true
 
 ## Publications
 
+- **Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
+Fernando Diaz, Andrew Drozdov, To Eun Kim, __Alireza Salemi__ , Hamed Zamani \
+Proceedings of __SIGIR-AP 2024__. \
+[\[Paper\]](https://dl.acm.org/doi/10.1145/3673791.3698439)
+
+
 - **Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization** \
 __Alireza Salemi__ and Hamed Zamani \
 arXiv 2024. \
