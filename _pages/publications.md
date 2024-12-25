@@ -7,6 +7,12 @@ author_profile: true
 
 ## Publications
 
+- **Accelerating Retrieval-Augmented Generation** \
+Derrick Quinn, Mohammad Nouri, Neel Patel, John Salihu,  __Alireza Salemi__, Sukhan Lee, Hamed Zamani, Mohammad Alian \
+Proceedings of __ASPLOS 2025__. \
+[\[Paper\]](https://arxiv.org/abs/2412.15246)
+
+
 - **Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
 Fernando Diaz, Andrew Drozdov, To Eun Kim, __Alireza Salemi__ , Hamed Zamani \
 Proceedings of __SIGIR-AP 2024__. \
