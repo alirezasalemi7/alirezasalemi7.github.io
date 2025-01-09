@@ -7,6 +7,17 @@ author_profile: true
 
 ## Publications
 
+- **Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation** \
+__Alireza Salemi__, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Weize Kong, Tao Chen, Zhuowan Li, Michael Bendersky and Hamed Zamani \
+arXiv 2025. \
+[\[Paper\]](https://arxiv.org/abs/2501.04167)
+
+- **Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation** \
+Chris Samarinas, Alexander Krubner, __Alireza Salemi__, Youngwoo Kim and Hamed Zamani \
+arXiv 2025. \
+[\[Code\]](https://github.com/algoprog/ICAT) / [\[Paper\]](https://arxiv.org/abs/2501.03545)
+
+
 - **Accelerating Retrieval-Augmented Generation** \
 Derrick Quinn, Mohammad Nouri, Neel Patel, John Salihu,  __Alireza Salemi__, Sukhan Lee, Hamed Zamani, Mohammad Alian \
 Proceedings of __ASPLOS 2025__. \
