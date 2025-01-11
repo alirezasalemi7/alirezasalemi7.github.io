@@ -6,6 +6,9 @@ author_profile: true
 
 ## Awards & Honors
 
+- 2025.1: __W. Bruce Croft Graduate Scholarship__\
+Given to students whose computer science research area is information retrieval or natural language processing.
+
 - 2024.7: __The Best Short Paper Award @ SIGIR 2024__\
 The award given to the best short paper.
 
