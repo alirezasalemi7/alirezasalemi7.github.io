@@ -7,6 +7,12 @@ author_profile: true
 
 ## Publications
 
+- **ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation** \
+__Alireza Salemi__, Julian Killingback and Hamed Zamani \
+arXiv 2025. \
+[\[Code\]](https://github.com/alirezasalemi7/ExPerT) / [\[Paper\]](https://arxiv.org/abs/2501.14956)
+
+
 - **Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation** \
 __Alireza Salemi__, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Weize Kong, Tao Chen, Zhuowan Li, Michael Bendersky and Hamed Zamani \
 arXiv 2025. \
