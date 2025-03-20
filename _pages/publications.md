@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **Personalized Generation In Large Model Era: A Survey** \
+Yiyan Xu, Jinghao Zhang,__Alireza Salemi__, Xinting Hu, Wenjie Wang, Fuli Feng, Hamed Zamani, Xiangnan He and Tat-Seng Chua \
+arXiv 2025. \
+[\[Paper\]](https://arxiv.org/abs/2503.02614)
+
 - **ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation** \
 __Alireza Salemi__, Julian Killingback and Hamed Zamani \
 arXiv 2025. \
