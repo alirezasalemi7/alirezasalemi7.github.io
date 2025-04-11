@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation** \
+Alireza Salemi, Chris Samarinas and Hamed Zamani \
+arXiv 2025. \
+[\[Code\]](https://github.com/alirezasalemi7/PR-RAG) / [\[Paper\]](https://arxiv.org/abs/2504.07794)
+
 - **Personalized Generation In Large Model Era: A Survey** \
 Yiyan Xu, Jinghao Zhang,__Alireza Salemi__, Xinting Hu, Wenjie Wang, Fuli Feng, Hamed Zamani, Xiangnan He and Tat-Seng Chua \
 arXiv 2025. \
