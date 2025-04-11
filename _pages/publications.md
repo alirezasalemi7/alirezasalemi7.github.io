@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 - **Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation** \
-Alireza Salemi, Chris Samarinas and Hamed Zamani \
+__Alireza Salemi__, Chris Samarinas and Hamed Zamani \
 arXiv 2025. \
 [\[Code\]](https://github.com/alirezasalemi7/PR-RAG) / [\[Paper\]](https://arxiv.org/abs/2504.07794)
 
