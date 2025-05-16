@@ -15,6 +15,7 @@ I am a third-year Ph.D. student at the [Manning College of Information and Compu
 My research interests lie in natural language processing and machine learning when they meet information retrieval, i.e., retrieval-enhanced machine learning (a.k.a, RAG). Recently, I have been working on personalizing large language models, multi-modal information retrieval, multi-modal knowledge grounding, and designing a search engine for all RAG LLMs (like Google for LLMs but tailored to their needs)! Previously, I worked on text summarization, translation, and hate speech detection.
 
 ## News
+- 2025.5: 3 papers got accepted to [ACL 2025](https://2025.aclweb.org/)! Look at my [publications](https://alirezasalemi7.github.io/publications/) for details!
 
 - 2024.7: I am honored to receive "The Best Short Paper Award" at [SIGIR 2024](https://sigir.org/sigir2024/) for our paper, "[Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://arxiv.org/abs/2404.13781)."
 
