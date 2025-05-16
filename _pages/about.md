@@ -17,6 +17,8 @@ My research interests lie in natural language processing and machine learning wh
 ## News
 - 2025.5: 3 papers got accepted to [ACL 2025](https://2025.aclweb.org/)! Look at my [publications](https://alirezasalemi7.github.io/publications/) for details!
 
+- 2025.1: I received my PhD Candidacy with Distinction from UMass Amherst!
+
 - 2024.7: I am honored to receive "The Best Short Paper Award" at [SIGIR 2024](https://sigir.org/sigir2024/) for our paper, "[Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://arxiv.org/abs/2404.13781)."
 
 - 2024.6: I started as a Student Researcher at [Google DeepMind](https://deepmind.google/) to work on personalizing LLMs!
