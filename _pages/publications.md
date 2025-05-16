@@ -14,12 +14,12 @@ arXiv 2025. \
 
 - **Personalized Generation In Large Model Era: A Survey** \
 Yiyan Xu, Jinghao Zhang,__Alireza Salemi__, Xinting Hu, Wenjie Wang, Fuli Feng, Hamed Zamani, Xiangnan He and Tat-Seng Chua \
-arXiv 2025. \
+Proceedings of __ACL 2025__. \
 [\[Paper\]](https://arxiv.org/abs/2503.02614)
 
 - **ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation** \
 __Alireza Salemi__, Julian Killingback and Hamed Zamani \
-arXiv 2025. \
+Findings of __ACL 2025__. \
 [\[Code\]](https://github.com/alirezasalemi7/ExPerT) / [\[Paper\]](https://arxiv.org/abs/2501.14956)
 
 
@@ -30,7 +30,7 @@ arXiv 2025. \
 
 - **Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation** \
 Chris Samarinas, Alexander Krubner, __Alireza Salemi__, Youngwoo Kim and Hamed Zamani \
-arXiv 2025. \
+Findings of __ACL 2025__. \
 [\[Code\]](https://github.com/algoprog/ICAT) / [\[Paper\]](https://arxiv.org/abs/2501.03545)
 
 
