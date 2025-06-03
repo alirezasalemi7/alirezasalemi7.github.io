@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **LaMP-QA: A Benchmark for Personalized Long-form Question Answering** \
+__Alireza Salemi__ and Hamed Zamani \
+arXiv 2025. \
+[\[Code\]](https://github.com/LaMP-Benchmark/LaMP-QA) / [\[Paper\]](https://arxiv.org/abs/2506.00137) / [\[Benchmark\]](https://huggingface.co/datasets/alireza7/LaMP-QA)
+
 - **Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation** \
 __Alireza Salemi__, Chris Samarinas and Hamed Zamani \
 arXiv 2025. \
