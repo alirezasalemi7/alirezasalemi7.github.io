@@ -53,12 +53,12 @@ Proceedings of __SIGIR-AP 2024__. \
 
 - **Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization** \
 __Alireza Salemi__ and Hamed Zamani \
-arXiv 2024. \
+Proceedings of __ICTIR 2025__. \
 [\[Code\]](https://github.com/alirezasalemi7/uRAG) / [\[Paper\]](https://arxiv.org/abs/2410.09942)
 
 - **Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models** \
 __Alireza Salemi__ and Hamed Zamani \
-arXiv 2024. \
+Proceedings of __ICTIR 2025__. \
 [\[Code\]](https://github.com/LaMP-Benchmark/LaMP) / [\[Paper\]](https://arxiv.org/abs/2409.09510)
 
 - **Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
