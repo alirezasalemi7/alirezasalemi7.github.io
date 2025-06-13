@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training** \
+__Alireza Salemi__, Mukta Maddipatla and Hamed Zamani \
+LiveRAG workshop in __SIGIR 2025__ \
+[\[Code\]](https://github.com/muktac5/CIIR-LiveRAG) / [\[Paper\]](https://arxiv.org/abs/2506.10844)
+
 - **LaMP-QA: A Benchmark for Personalized Long-form Question Answering** \
 __Alireza Salemi__ and Hamed Zamani \
 arXiv 2025. \
