@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **The Second Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
+Fernando Diaz, Andrew Drozdov, To Eun Kim, __Alireza Salemi__ , Hamed Zamani \
+Proceedings of __SIGIR 2025__. \
+[\[Paper\]](https://dl.acm.org/doi/10.1145/3726302.3731695)
+
 - **CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training** \
 __Alireza Salemi__, Mukta Maddipatla and Hamed Zamani \
 LiveRAG workshop in __SIGIR 2025__ \
