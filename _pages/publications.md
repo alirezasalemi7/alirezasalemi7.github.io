@@ -7,6 +7,12 @@ author_profile: true
 
 ## Publications
 
+- **Learning from Natural Language Feedback for Personalized Question Answering** \
+__Alireza Salemi__ and Hamed Zamani \
+arXiv 2025. \
+[\[Code\]](https://github.com/alirezasalemi7/VAC) / [\[Paper\]](https://arxiv.org/abs/2508.10695)
+
+
 - **The Second Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities** \
 Fernando Diaz, Andrew Drozdov, To Eun Kim, __Alireza Salemi__ , Hamed Zamani \
 Proceedings of __SIGIR 2025__. \
