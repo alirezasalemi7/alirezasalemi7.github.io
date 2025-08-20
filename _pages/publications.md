@@ -25,7 +25,7 @@ LiveRAG workshop in __SIGIR 2025__ \
 
 - **LaMP-QA: A Benchmark for Personalized Long-form Question Answering** \
 __Alireza Salemi__ and Hamed Zamani \
-arXiv 2025. \
+Proceedings of __EMNLP 2025__. \
 [\[Code\]](https://github.com/LaMP-Benchmark/LaMP-QA) / [\[Paper\]](https://arxiv.org/abs/2506.00137) / [\[Benchmark\]](https://huggingface.co/datasets/alireza7/LaMP-QA)
 
 - **Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation** \
