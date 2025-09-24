@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **Pathways of Thoughts: Multi-Directional Thinking for Long-form Personalized Question Answering** \
+__Alireza Salemi__, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Zhuowan Li, Spurthi Amba Hombaiah, Weize Kong, Tao Chen, Hamed Zamani, Michael Bendersky \
+arXiv 2025. \
+[\[Paper\]](https://arxiv.org/abs/2509.19094)
+
 - **Learning from Natural Language Feedback for Personalized Question Answering** \
 __Alireza Salemi__ and Hamed Zamani \
 arXiv 2025. \
