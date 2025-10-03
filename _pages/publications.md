@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science** \
+__Alireza Salemi__, Mihir Parmar, Palash Goyal, Yiwen Song, Jinsung Yoon, Hamed Zamani, Hamid Palangi, Tomas Pfister \
+arXiv 2025. \
+[\[Paper\]](https://arxiv.org/abs/2510.01285)
+
 - **Pathways of Thoughts: Multi-Directional Thinking for Long-form Personalized Question Answering** \
 __Alireza Salemi__, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Zhuowan Li, Spurthi Amba Hombaiah, Weize Kong, Tao Chen, Hamed Zamani, Michael Bendersky \
 arXiv 2025. \
