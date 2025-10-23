@@ -6,6 +6,9 @@ author_profile: true
 
 ## Awards & Honors
 
+- 2025.10: __Google Ph.D. Fellowship 2025__\
+This fellowship is awarded to exceptional graduate students working on innovative research in computer science and related fields.
+
 - 2025.1: __W. Bruce Croft Graduate Scholarship__\
 Given to students whose computer science research area is information retrieval or natural language processing.
 
@@ -45,3 +48,4 @@ Received scholarship from the University of Tehran Sponsors Foundation as an exc
 
 - 2017.8: __University Entrance Examination__  \
 Ranked as top students in at national entrance examination to universities in 2017, Ranked $217^{th}$ (national) and $59^{th}$(regional) among more than 148k candidates.
+
