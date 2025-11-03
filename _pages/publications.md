@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+- **Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs** \
+Mohammad Tavakoli, __Alireza Salemi__, Carrie Ye, Mohamed Abdalla, Hamed Zamani, J Ross Mitchell \
+arXiv 2025. \
+[\[Paper\]](https://www.arxiv.org/abs/2510.27246)
+
 - **LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science** \
 __Alireza Salemi__, Mihir Parmar, Palash Goyal, Yiwen Song, Jinsung Yoon, Hamed Zamani, Hamid Palangi, Tomas Pfister \
 arXiv 2025. \
