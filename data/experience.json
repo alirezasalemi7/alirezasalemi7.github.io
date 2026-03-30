@@ -1,0 +1,30 @@
+[
+  {
+    "org": "Google Cloud AI",
+    "date": "Jun 2025 – Dec 2025",
+    "role": "Student Researcher",
+    "supervisor": "Hamid Palangi & Mihir Parmar",
+    "desc": "Built blackboard multi-agent systems for autonomous information discovery in data science workflows."
+  },
+  {
+    "org": "Google DeepMind",
+    "date": "Jun 2024 – May 2025",
+    "role": "Student Researcher",
+    "supervisor": "Cheng Li, Mingyang Zhang, and Michael Bendersky",
+    "desc": "Personalized large language models using reinforcement learning, self-training, inference-compute scaling, reasoning, and pluralistic alignment techniques."
+  },
+  {
+    "org": "Lowe's",
+    "date": "May 2023 – Aug 2023",
+    "role": "Data Science Intern",
+    "supervisor": "Surya Kallumadi",
+    "desc": "Personalized large language models by optimizing retrievers with reinforcement learning from language model feedback."
+  },
+  {
+    "org": "Sotoon",
+    "date": "Nov 2021 – Aug 2022",
+    "role": "NLP Data Scientist",
+    "supervisor": null,
+    "desc": "Built an AutoML system for text classification with a focus on sentiment analysis and automatic moderation of user-generated product reviews."
+  }
+]

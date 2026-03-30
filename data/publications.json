@@ -1,0 +1,265 @@
+[
+  {
+    "year": 2026,
+    "title": "Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering",
+    "authors": ["Maryam Amirizaniani", "Alireza Salemi", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization", "RAG", "Agents"],
+    "tags": ["ReAct", "Reasoning", "Reinforcement Learning"],
+    "desc": "Introduces PR2, a reinforcement learning framework that trains LLMs to decide when and what to retrieve from user profiles across multiple reasoning steps for personalized QA. Achieves 8.8–12% relative improvement over existing approaches on LaMP-QA.",
+    "links": { "paper": "https://arxiv.org/abs/2602.19317", "code": "https://github.com/maryamamiri114/PR2" }
+  },
+  {
+    "year": 2026,
+    "title": "Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization", "RAG"],
+    "tags": ["Privacy", "Inference"],
+    "desc": "Proposes P³, a system where a large server-side model generates draft tokens from the query alone while a small client-side model refines them using private user profiles. Recovers 90–96% of full-personalization quality while limiting private data exposure.",
+    "links": { "paper": "https://arxiv.org/abs/2601.17569", "code": "https://github.com/alirezasalemi7/PPP" }
+  },
+  {
+    "year": 2026,
+    "title": "Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs",
+    "authors": ["Mohammad Tavakoli", "Alireza Salemi", "Carrie Ye", "Mohamed Abdalla", "Hamed Zamani", "J Ross Mitchell"],
+    "venue": "ICLR 2026", "venueType": "iclr", "topics": ["Long-context"],
+    "tags": ["Benchmark", "Memory"],
+    "desc": "Introduces BEAM, a benchmark with conversations up to 10M tokens, and LIGHT, a cognitive-inspired framework equipping LLMs with episodic, working, and scratchpad memory. Shows even 1M-context models struggle with long dialogues, while LIGHT improves recall by 3.5–12.7%.",
+    "links": { "paper": "https://www.arxiv.org/abs/2510.27246" }
+  },
+  {
+    "year": 2026,
+    "title": "Pathways of Thoughts: Multi-Directional Thinking for Long-form Personalized Question Answering",
+    "authors": ["Alireza Salemi", "Cheng Li", "Mingyang Zhang", "Qiaozhu Mei", "Zhuowan Li", "Spurthi Amba Hombaiah", "Weize Kong", "Tao Chen", "Hamed Zamani", "Michael Bendersky"],
+    "venue": "WWW 2026", "venueType": "www", "topics": ["Personalization", "Agents"],
+    "tags": ["ReAct", "Reasoning", "Long-form", "Test-Time Scaling"],
+    "desc": "Proposes PoT, an inference-time technique that generates multiple reasoning trajectories by dynamically selecting cognitive operations (reason, revise, personalize, clarify), then combines candidate responses weighted by inferred user preferences. Achieves up to 10.8% relative improvement on LaMP-QA.",
+    "links": { "paper": "https://arxiv.org/abs/2509.19094" }
+  },
+  {
+    "year": 2025,
+    "title": "LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science",
+    "authors": ["Alireza Salemi", "Mihir Parmar", "Palash Goyal", "Yiwen Song", "Jinsung Yoon", "Hamed Zamani", "Hamid Palangi", "Tomas Pfister"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Agents"],
+    "tags": ["ReAct", "Multi-Agent", "Data Science"],
+    "desc": "Introduces a blackboard-inspired multi-agent architecture where a central agent broadcasts tasks and specialized agents volunteer based on their expertise, eliminating rigid hierarchical coordination. Achieves 13–57% relative improvements on data science benchmarks over the best baseline.",
+    "links": { "paper": "https://arxiv.org/abs/2510.01285" }
+  },
+  {
+    "year": 2025,
+    "title": "Learning from Natural Language Feedback for Personalized Question Answering",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization"],
+    "tags": ["Feedback", "Self-Training"],
+    "desc": "Proposes VAC, which replaces scalar reward signals with natural language feedback derived from user profiles to train personalized response models via iterative self-training. The final model requires no feedback at inference time and achieves state-of-the-art results on LaMP-QA.",
+    "links": { "paper": "https://arxiv.org/abs/2508.10695", "code": "https://github.com/alirezasalemi7/VAC" }
+  },
+  {
+    "year": 2025,
+    "title": "The Second Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities",
+    "authors": ["Fernando Diaz", "Andrew Drozdov", "To Eun Kim", "Alireza Salemi", "Hamed Zamani"],
+    "venue": "SIGIR 2025", "venueType": "sigir", "topics": ["RAG"],
+    "tags": ["Survey"],
+    "desc": "Tutorial synthesizing retrieval-enhanced machine learning paradigms across NLP, vision, and computational biology, presenting a unified formal framework that bridges foundational IR research with modern RAG systems.",
+    "links": { "paper": "https://dl.acm.org/doi/10.1145/3726302.3731695" }
+  },
+  {
+    "year": 2025,
+    "title": "CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training",
+    "authors": ["Alireza Salemi", "Mukta Maddipatla", "Hamed Zamani"],
+    "venue": "LiveRAG @ SIGIR 2025", "venueType": "workshop", "topics": ["RAG", "Agents"],
+    "tags": ["ReAct", "Multi-Agent", "Self-Training"],
+    "desc": "Presents mRAG, a multi-agent RAG system with specialized agents for planning, searching, and reasoning, trained via reward-guided self-training over sampled trajectories. Demonstrated strong performance in the SIGIR 2025 LiveRAG competition.",
+    "links": { "paper": "https://arxiv.org/abs/2506.10844", "code": "https://github.com/muktac5/CIIR-LiveRAG" }
+  },
+  {
+    "year": 2025,
+    "title": "LaMP-QA: A Benchmark for Personalized Long-form Question Answering",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "EMNLP 2025", "venueType": "emnlp", "topics": ["Personalization"],
+    "tags": ["Benchmark", "Long-form"],
+    "desc": "Introduces LaMP-QA, a benchmark for personalized long-form QA spanning 45+ subcategories across three broad domains. Shows that systems incorporating personalized context achieve up to 39% performance improvement over non-personalized baselines.",
+    "links": { "paper": "https://arxiv.org/abs/2506.00137", "code": "https://github.com/LaMP-Benchmark/LaMP-QA", "benchmark": "https://huggingface.co/datasets/alireza7/LaMP-QA" }
+  },
+  {
+    "year": 2025,
+    "title": "Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation",
+    "authors": ["Alireza Salemi", "Chris Samarinas", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["RAG", "Agents"],
+    "tags": ["ReAct", "Planning", "Diversity"],
+    "desc": "Proposes a two-phase RAG framework that first generates a diverse set of query-aspect plans, then refines candidate responses using those plans and selects the best output via a reward model. Achieves up to 15.4% improvement on TREC datasets.",
+    "links": { "paper": "https://arxiv.org/abs/2504.07794", "code": "https://github.com/alirezasalemi7/PR-RAG" }
+  },
+  {
+    "year": 2025,
+    "title": "Personalized Generation In Large Model Era: A Survey",
+    "authors": ["Yiyan Xu", "Jinghao Zhang", "Alireza Salemi", "Xinting Hu", "Wenjie Wang", "Fuli Feng", "Hamed Zamani", "Xiangnan He", "Tat-Seng Chua"],
+    "venue": "ACL 2025", "venueType": "acl", "topics": ["Personalization"],
+    "tags": ["Survey"],
+    "desc": "The first comprehensive survey on personalized generation with large models, establishing a unified framework and multi-level taxonomy covering technical advances, datasets, and evaluation across modalities and tasks. Discusses open challenges and future directions.",
+    "links": { "paper": "https://arxiv.org/abs/2503.02614" }
+  },
+  {
+    "year": 2025,
+    "title": "ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation",
+    "authors": ["Alireza Salemi", "Julian Killingback", "Hamed Zamani"],
+    "venue": "Findings of ACL 2025", "venueType": "acl", "topics": ["Personalization"],
+    "tags": ["Evaluation", "Long-form"],
+    "desc": "Introduces ExPerT, an LLM-based evaluation framework that extracts atomic aspects and evidence from generated and reference texts, then measures alignment on content and writing style with detailed explanations. Outperforms existing metrics by 7.2% in alignment with human judgments.",
+    "links": { "paper": "https://arxiv.org/abs/2501.14956", "code": "https://github.com/alirezasalemi7/ExPerT" }
+  },
+  {
+    "year": 2025,
+    "title": "Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation",
+    "authors": ["Alireza Salemi", "Cheng Li", "Mingyang Zhang", "Qiaozhu Mei", "Weize Kong", "Tao Chen", "Zhuowan Li", "Michael Bendersky", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization"],
+    "tags": ["Self-Training", "Reasoning", "Long-form"],
+    "desc": "Introduces REST-PG, training LLMs to reason through personal data before generating long-form responses via an EM-based reinforced self-training loop that progressively refines on the model's own high-quality outputs. Achieves 14.5% average relative improvement on LongLaMP.",
+    "links": { "paper": "https://arxiv.org/abs/2501.04167" }
+  },
+  {
+    "year": 2025,
+    "title": "Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation",
+    "authors": ["Chris Samarinas", "Alexander Krubner", "Alireza Salemi", "Youngwoo Kim", "Hamed Zamani"],
+    "venue": "Findings of ACL 2025", "venueType": "acl", "topics": ["RAG"],
+    "tags": ["Evaluation", "Factuality"],
+    "desc": "Introduces ICAT, a modular evaluation framework that decomposes LLM-generated text into atomic claims, validates them against retrieved knowledge sources, and measures coverage of expected factual aspects. Shows strong agreement with human evaluations on TREC Web Track data.",
+    "links": { "paper": "https://arxiv.org/abs/2501.03545", "code": "https://github.com/algoprog/ICAT" }
+  },
+  {
+    "year": 2025,
+    "title": "Accelerating Retrieval-Augmented Generation",
+    "authors": ["Derrick Quinn", "Mohammad Nouri", "Neel Patel", "John Salihu", "Alireza Salemi", "Sukhan Lee", "Hamed Zamani", "Mohammad Alian"],
+    "venue": "ASPLOS 2025", "venueType": "asplos", "topics": ["RAG"],
+    "tags": ["Systems", "Hardware"],
+    "desc": "Finds that exact nearest-neighbor retrieval, despite higher cost, can reduce overall RAG inference time by improving document quality. Introduces IKS, a near-memory hardware accelerator achieving 13–28× faster exact retrieval on 512GB databases.",
+    "links": { "paper": "https://arxiv.org/abs/2412.15246" }
+  },
+  {
+    "year": 2025,
+    "title": "Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "ICTIR 2025", "venueType": "ictir", "topics": ["RAG"],
+    "tags": ["Ranking"],
+    "desc": "Proposes a unified search engine for serving multiple heterogeneous RAG models, using iterative expectation-maximization to maximize each agent's utility based on offline document quality feedback. Significantly outperforms baselines across 18 RAG models on KILT.",
+    "links": { "paper": "https://arxiv.org/abs/2410.09942", "code": "https://github.com/alirezasalemi7/uRAG" }
+  },
+  {
+    "year": 2025,
+    "title": "Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "ICTIR 2025", "venueType": "ictir", "topics": ["Personalization", "RAG"],
+    "tags": ["Fine-tuning", "Privacy"],
+    "desc": "First systematic comparison of RAG vs. PEFT as privacy-preserving personalization strategies across seven LaMP tasks. Finds RAG excels for data-scarce users (+14.9%) while PEFT wins with abundant user data, and their combination reaches +16.0%.",
+    "links": { "paper": "https://arxiv.org/abs/2409.09510", "code": "https://github.com/LaMP-Benchmark/LaMP" }
+  },
+  {
+    "year": 2024,
+    "title": "Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities",
+    "authors": ["Fernando Diaz", "Andrew Drozdov", "To Eun Kim", "Alireza Salemi", "Hamed Zamani"],
+    "venue": "SIGIR-AP 2024", "venueType": "sigir", "topics": ["RAG"],
+    "tags": ["Survey"],
+    "desc": "Tutorial at SIGIR-AP 2024 presenting a formal unified framework for retrieval-enhanced machine learning, extending RAG paradigms beyond NLP to computer vision, time series prediction, and computational biology.",
+    "links": { "paper": "https://dl.acm.org/doi/10.1145/3673791.3698439" }
+  },
+  {
+    "year": 2024,
+    "title": "Retrieval-Enhanced Machine Learning: Synthesis and Opportunities",
+    "authors": ["To Eun Kim", "Alireza Salemi", "Andrew Drozdov", "Fernando Diaz", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["RAG"],
+    "tags": ["Survey"],
+    "desc": "Introduces a formal framework for retrieval-enhanced machine learning with consistent notation across ML domains, bridging foundational IR research with contemporary REML literature across NLP, vision, and computational biology.",
+    "links": { "paper": "https://arxiv.org/abs/2407.12982" }
+  },
+  {
+    "year": 2024,
+    "title": "LongLaMP: A Benchmark for Personalized Long-form Text Generation",
+    "authors": ["Ishita Kumar", "Snigdha Viswanathan", "Sushrita Yerra", "Alireza Salemi", "Ryan Rossi", "Franck Dernoncourt", "Hanieh Deilamsalehy", "Xiang Chen", "Ruiyi Zhang", "Shubham Agarwal", "Nedim Lipka", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization"],
+    "tags": ["Benchmark", "Long-form"],
+    "desc": "Introduces LongLaMP, the first benchmark focused on personalized long-form text generation, covering tasks such as email composition and review writing. Demonstrates that personalization consistently benefits long-form generation across all tasks.",
+    "links": { "paper": "https://www.arxiv.org/abs/2407.11016" }
+  },
+  {
+    "year": 2024,
+    "title": "LaMP: When Large Language Models Meet Personalization",
+    "authors": ["Alireza Salemi", "Sheshera Mysore", "Michael Bendersky", "Hamed Zamani"],
+    "venue": "ACL 2024", "venueType": "acl", "topics": ["Personalization"],
+    "tags": ["Benchmark"],
+    "desc": "Introduces LaMP, a benchmark of seven personalization tasks (three classification, four generation), and proposes retrieval-augmented methods using term-based, semantic, and time-aware strategies to personalize LLM outputs from user profiles.",
+    "links": { "paper": "https://arxiv.org/abs/2304.11406", "code": "https://github.com/LaMP-Benchmark/LaMP", "website": "https://lamp-benchmark.github.io/" }
+  },
+  {
+    "year": 2024,
+    "title": "Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "SIGIR 2024", "venueType": "sigir", "topics": ["RAG"],
+    "tags": ["Ranking"],
+    "desc": "Introduces uRAG, a unified retrieval engine that serves 36 diverse downstream RAG systems spanning QA, fact verification, entity linking, and relation extraction. Establishes training guidelines for machine-oriented search engines optimized for downstream task utility.",
+    "links": { "paper": "https://arxiv.org/abs/2405.00175", "code": "https://github.com/alirezasalemi7/uRAG" }
+  },
+  {
+    "year": 2024,
+    "title": "Evaluating Retrieval Quality in Retrieval-Augmented Generation",
+    "authors": ["Alireza Salemi", "Hamed Zamani"],
+    "venue": "SIGIR 2024", "venueType": "sigir", "topics": ["RAG"],
+    "tags": ["Evaluation"],
+    "award": "Best Short Paper",
+    "desc": "Proposes eRAG, which evaluates each retrieved document individually by measuring its contribution to downstream task performance, achieving Kendall's τ improvements of 0.168–0.494 over traditional methods at up to 50× lower GPU cost.",
+    "links": { "paper": "https://arxiv.org/abs/2404.13781", "code": "https://github.com/alirezasalemi7/eRAG" }
+  },
+  {
+    "year": 2024,
+    "title": "Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation",
+    "authors": ["Alireza Salemi", "Surya Kallumadi", "Hamed Zamani"],
+    "venue": "SIGIR 2024", "venueType": "sigir", "topics": ["Personalization", "RAG"],
+    "tags": ["Dense Retrieval", "Fine-tuning"],
+    "desc": "First work to optimize retrieval models that deliver personal documents to LLMs for customized output, developing RL-based and knowledge distillation approaches. Achieves statistically significant improvements on 6 of 7 LaMP benchmark tasks.",
+    "links": { "paper": "https://arxiv.org/abs/2404.05970", "code": "https://github.com/LaMP-Benchmark/LaMP" }
+  },
+  {
+    "year": 2023,
+    "title": "Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering",
+    "authors": ["Alireza Salemi", "Mahta Rafiee", "Hamed Zamani"],
+    "venue": "ICTIR 2023", "venueType": "ictir", "topics": ["Multimodal", "RAG"],
+    "tags": ["Dense Retrieval", "VQA"],
+    "desc": "Proposes an automatic pipeline for generating pre-training data for outside-knowledge VQA retrieval models. Achieves 26.9% Precision@5 improvement over asymmetric architectures and strong zero-shot generalization with less training data.",
+    "links": { "paper": "https://arxiv.org/abs/2306.16478", "code": "https://github.com/alirezasalemi7/pretraining-multimodal-dense-retriever-for-okvqa" }
+  },
+  {
+    "year": 2023,
+    "title": "A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering",
+    "authors": ["Alireza Salemi", "Juan Altmayer Pizzorno", "Hamed Zamani"],
+    "venue": "SIGIR 2023", "venueType": "sigir", "topics": ["Multimodal", "RAG"],
+    "tags": ["Dense Retrieval", "VQA"],
+    "award": "Best Student Paper",
+    "desc": "Introduces DEDR, a dense retrieval framework for knowledge-intensive VQA that encodes queries and documents into a shared space via uni-modal and multi-modal encoders with iterative distillation. Improves retrieval by 11.6–30.9% and enables state-of-the-art end-to-end VQA via MM-FiD.",
+    "links": { "paper": "https://arxiv.org/abs/2304.13649", "code": "https://github.com/alirezasalemi7/DEDR-MM-FiD/tree/main" }
+  },
+  {
+    "year": 2023,
+    "title": "PEACH: Pre-Training Sequence-to-Sequence Multilingual Models for Translation with Semi-Supervised Pseudo-Parallel Document Generation",
+    "authors": ["Alireza Salemi", "Amirhossein Abaskohi", "Sara Tavakoli", "Yadollah Yaghoobzadeh", "Azadeh Shakery"],
+    "venue": "LoResMT 2023", "venueType": "workshop", "topics": ["NLP"],
+    "tags": ["Translation", "Low-resource"],
+    "desc": "Proposes semi-supervised pseudo-parallel document generation for pre-training multilingual seq2seq models in low-resource translation settings, reducing dependence on large parallel corpora.",
+    "links": { "paper": "https://aclanthology.org/2023.loresmt-1.3/", "code": "https://github.com/AmirAbaskohi/PEACH" }
+  },
+  {
+    "year": 2021,
+    "title": "ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization",
+    "authors": ["Alireza Salemi", "Emad Kebriaei", "Ghazal Neisi Minaei", "Azadeh Shakery"],
+    "venue": "EMNLP 2021", "venueType": "emnlp", "topics": ["NLP"],
+    "tags": ["Summarization", "Pre-training"],
+    "desc": "Introduces ARMAN, a Transformer encoder-decoder pre-trained with objectives that select semantically salient sentences and reorder them to match human writing conventions. Achieves state-of-the-art results across six Persian summarization benchmarks.",
+    "links": { "paper": "https://arxiv.org/abs/2109.04098", "code": "https://github.com/alirezasalemi7/ARMAN" }
+  },
+  {
+    "year": 2021,
+    "title": "UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models",
+    "authors": ["Alireza Salemi", "Nazanin Sabri", "Emad Kebriaei", "Behnam Bahrak", "Azadeh Shakery"],
+    "venue": "SemEval 2021", "venueType": "workshop", "topics": ["NLP"],
+    "tags": ["Toxicity", "Span Detection"],
+    "desc": "Comparative analysis of attention-based, NER-based, and ensemble approaches for toxic span detection at SemEval-2021, evaluating strengths and trade-offs of each paradigm on the shared task dataset.",
+    "links": { "paper": "https://aclanthology.org/2021.semeval-1.136/", "code": "https://github.com/alirezasalemi7/SemEval2021-Toxic-Spans-Detection" }
+  }
+]

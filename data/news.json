@@ -1,0 +1,15 @@
+[
+  { "date": "2026", "text": "Paper accepted at <strong>ICLR 2026</strong>: <em>Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs</em>" },
+  { "date": "2026", "text": "Paper accepted at <strong>WWW 2026</strong>: <em>Pathways of Thoughts: Multi-Directional Thinking for Long-form Personalized Question Answering</em>" },
+  { "date": "2025", "text": "Awarded the <strong>Google PhD Fellowship in Natural Language Processing</strong>" },
+  { "date": "2025", "text": "Paper accepted at <strong>EMNLP 2025</strong>: <em>LaMP-QA: A Benchmark for Personalized Long-form Question Answering</em>" },
+  { "date": "2025", "text": "5 papers accepted at <strong>ACL 2025</strong> and <strong>ICTIR 2025</strong>" },
+  { "date": "2025", "text": "Paper accepted at <strong>ASPLOS 2025</strong>: <em>Accelerating Retrieval-Augmented Generation</em>" },
+  { "date": "2025", "text": "Passed PhD Candidacy Examination <strong>with Distinction</strong> at UMass Amherst" },
+  { "date": "Jul 2024", "text": "Received the <strong>SIGIR 2024 Best Short Paper Award</strong> for work on evaluating retrieval quality in RAG" },
+  { "date": "May 2024", "text": "Paper accepted at <strong>ACL 2024</strong>: <em>LaMP: When Large Language Models Meet Personalization</em>" },
+  { "date": "Jul 2023", "text": "Received the <strong>SIGIR 2023 Best Student Paper Award</strong> for knowledge-intensive visual question answering work" },
+  { "date": "2023", "text": "Awarded the <strong>W. Bruce Croft Graduate Scholarship</strong> at UMass Amherst" },
+  { "date": "Nov 2021", "text": "Paper accepted at <strong>EMNLP 2021</strong>: <em>ARMAN: Pre-training for Persian Abstractive Summarization</em>" },
+  { "date": "2021", "text": "Received <strong>Best Thesis Award in Computer Engineering</strong> from the University of Tehran" }
+]

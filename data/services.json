@@ -1,0 +1,18 @@
+{
+  "organizing": [
+    { "venue": "ACL 2026", "role": "Workshop Organizer", "desc": "Second Workshop on Customizable NLP (CustomNLP4U)" },
+    { "venue": "SIGIR 2025", "role": "Tutorial Organizer", "desc": "Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities" },
+    { "venue": "SIGIR-AP 2024", "role": "Tutorial Organizer", "desc": "Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities" }
+  ],
+  "pc": [
+    "SIGIR 2026", "WWW 2026", "SIGIR-AP 2025", "ICTIR 2025", "SIGIR 2025",
+    "SIGIR-AP 2024", "WWW 2025", "SIGIR 2024", "LLM-IGS 2024"
+  ],
+  "reviewing": [
+    "NeurIPS 2025", "EMNLP 2025", "ACL 2025", "ACL 2024", "ACM TOIS", "IEEE TKDE"
+  ],
+  "mentoring": [
+    { "program": "Industry Mentorship Program (IMP)", "year": "2024", "desc": "Mentored MS students on personalizing LLMs, in collaboration with industry mentors from Adobe." },
+    { "program": "Early Research Scholar Program (ERSP)", "year": "2023–2024", "desc": "Mentored undergraduate students on unified question answering and personalizing LLMs." }
+  ]
+}
