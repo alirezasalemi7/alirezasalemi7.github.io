@@ -3,7 +3,7 @@
     "year": 2026,
     "title": "Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering",
     "authors": ["Maryam Amirizaniani", "Alireza Salemi", "Hamed Zamani"],
-    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization", "RAG", "Agents"],
+    "venue": "SIGIR 2026", "venueType": "sigir", "topics": ["Personalization", "RAG", "Agents"],
     "tags": ["ReAct", "Reasoning", "Reinforcement Learning"],
     "desc": "Introduces PR2, a reinforcement learning framework that trains LLMs to decide when and what to retrieve from user profiles across multiple reasoning steps for personalized QA. Achieves 8.8–12% relative improvement over existing approaches on LaMP-QA.",
     "links": { "paper": "https://arxiv.org/abs/2602.19317", "code": "https://github.com/maryamamiri114/PR2" }
@@ -48,7 +48,7 @@
     "year": 2025,
     "title": "Learning from Natural Language Feedback for Personalized Question Answering",
     "authors": ["Alireza Salemi", "Hamed Zamani"],
-    "venue": "arXiv", "venueType": "arxiv", "topics": ["Personalization"],
+    "venue": "SIGIR 2026", "venueType": "sigir", "topics": ["Personalization"],
     "tags": ["Feedback", "Self-Training"],
     "desc": "Proposes VAC, which replaces scalar reward signals with natural language feedback derived from user profiles to train personalized response models via iterative self-training. The final model requires no feedback at inference time and achieves state-of-the-art results on LaMP-QA.",
     "links": { "paper": "https://arxiv.org/abs/2508.10695", "code": "https://github.com/alirezasalemi7/VAC" }
