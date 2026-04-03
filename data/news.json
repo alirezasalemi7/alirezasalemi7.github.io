@@ -1,4 +1,5 @@
 [
+  { "date": "2026", "text": "3 papers accepted at <strong>SIGIR 2026</strong>" },
   { "date": "2026", "text": "Paper accepted at <strong>ICLR 2026</strong>: <em>Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs</em>" },
   { "date": "2026", "text": "Paper accepted at <strong>WWW 2026</strong>: <em>Pathways of Thoughts: Multi-Directional Thinking for Long-form Personalized Question Answering</em>" },
   { "date": "2025", "text": "Awarded the <strong>Google PhD Fellowship in Natural Language Processing</strong>" },
