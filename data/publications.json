@@ -1,6 +1,15 @@
 [
   {
     "year": 2026,
+    "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction",
+    "authors": ["Alireza Salemi", "Chang Zeng", "Atharva Nijasure", "Jui-Hui Chung", "Razieh Rahimi", "Fernando Diaz", "Hamed Zamani"],
+    "venue": "arXiv", "venueType": "arxiv", "topics": ["Agents", "RAG"],
+    "tags": ["Search Agents", "Reinforcement Learning", "Reasoning", "DCI"],
+    "desc": "Introduces GrepSeek, where LLM agents search corpora by executing shell commands rather than relying on keyword-based retrieval. Uses a two-stage training approach (verified trajectory generation followed by policy optimization) and a parallel execution engine for fast shell-based retrieval, showing strong results across seven QA benchmarks.",
+    "links": { "paper": "https://arxiv.org/abs/2605.29307", "code": "https://github.com/alirezasalemi7/grepseek" }
+  },
+  {
+    "year": 2026,
     "title": "Evaluation of Agents under Simulated AI Marketplace Dynamics",
     "authors": ["To Eun Kim", "Alireza Salemi", "Hamed Zamani", "Fernando Diaz"],
     "venue": "SIGIR 2026", "venueType": "sigir", "topics": ["Agents", "RAG"],
