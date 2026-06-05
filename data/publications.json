@@ -108,10 +108,10 @@
     "links": { "paper": "https://arxiv.org/abs/2506.00137", "code": "https://github.com/LaMP-Benchmark/LaMP-QA", "benchmark": "https://huggingface.co/datasets/alireza7/LaMP-QA" }
   },
   {
-    "year": 2025,
+    "year": 2026,
     "title": "Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation",
     "authors": ["Alireza Salemi", "Chris Samarinas", "Hamed Zamani"],
-    "venue": "arXiv", "venueType": "arxiv", "topics": ["RAG", "Agents"],
+    "venue": "ICTIR 2026", "venueType": "ictir", "topics": ["RAG", "Agents"],
     "tags": ["ReAct", "Planning", "Diversity"],
     "desc": "Proposes a two-phase RAG framework that first generates a diverse set of query-aspect plans, then refines candidate responses using those plans and selects the best output via a reward model. Achieves up to 15.4% improvement on TREC datasets.",
     "links": { "paper": "https://arxiv.org/abs/2504.07794", "code": "https://github.com/alirezasalemi7/PR-RAG" }
