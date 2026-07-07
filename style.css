@@ -533,6 +533,65 @@ ul { list-style: none; }
   font-weight: 400;
 }
 
+.hero-market {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  max-width: 580px;
+  margin-bottom: 22px;
+  padding: 11px 15px;
+  background: var(--accent-pale);
+  border: 1px solid var(--accent-light);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius-sm);
+}
+
+.hero-market-pulse {
+  flex-shrink: 0;
+  width: 9px;
+  height: 9px;
+  margin-top: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 0 var(--accent);
+  animation: market-pulse 2s infinite;
+}
+
+@keyframes market-pulse {
+  0%   { box-shadow: 0 0 0 0 var(--accent-light); }
+  70%  { box-shadow: 0 0 0 7px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
+.hero-market-text {
+  font-size: 0.875rem;
+  color: var(--text);
+  line-height: 1.55;
+  font-weight: 300;
+}
+
+.hero-market-text strong { font-weight: 600; }
+
+.hero-market-text a {
+  color: var(--primary-mid);
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--accent-light);
+  transition: text-decoration-color 0.2s;
+}
+.hero-market-text a:hover { text-decoration-color: var(--accent); }
+
+.ph-badge-market {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-market-pulse { animation: none; }
+}
+
 .hero-bio {
   font-size: 1rem;
   color: var(--text);
