@@ -596,6 +596,24 @@ ul { list-style: none; }
 
 .hero-market-text strong { font-weight: 700; color: var(--mkt-deep); }
 
+.hero-market-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-bottom: 15px;
+}
+
+.hero-market-tags span {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--mkt-deep);
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid var(--mkt);
+  border-radius: 20px;
+  padding: 3px 11px;
+  white-space: nowrap;
+}
+
 .hero-market-cta {
   display: flex;
   flex-wrap: wrap;
