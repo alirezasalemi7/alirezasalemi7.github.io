@@ -541,11 +541,11 @@ ul { list-style: none; }
   position: relative;
   max-width: 580px;
   margin-bottom: 24px;
-  padding: 18px 20px;
-  background: linear-gradient(135deg, var(--mkt-pale), var(--mkt-light));
-  border: 1px solid var(--mkt);
+  padding: 16px 20px 16px 22px;
+  background: var(--bg-card, #fff);
+  border: 1px solid var(--mkt-light);
   border-radius: var(--radius);
-  box-shadow: 0 6px 22px -10px var(--mkt);
+  box-shadow: 0 4px 18px -12px var(--mkt);
   overflow: hidden;
 }
 
@@ -588,31 +588,13 @@ ul { list-style: none; }
 
 .hero-market-text {
   font-size: 0.9rem;
-  color: #7A1228;
+  color: var(--text);
   line-height: 1.6;
   font-weight: 400;
   margin-bottom: 14px;
 }
 
 .hero-market-text strong { font-weight: 700; color: var(--mkt-deep); }
-
-.hero-market-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-  margin-bottom: 15px;
-}
-
-.hero-market-tags span {
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--mkt-deep);
-  background: rgba(255, 255, 255, 0.7);
-  border: 1px solid var(--mkt);
-  border-radius: 20px;
-  padding: 3px 11px;
-  white-space: nowrap;
-}
 
 .hero-market-cta {
   display: flex;
@@ -641,10 +623,11 @@ ul { list-style: none; }
 }
 
 .hero-market-btn-ghost {
-  background: rgba(255, 255, 255, 0.7);
+  background: transparent;
   color: var(--mkt-deep);
+  border-color: var(--mkt-light);
 }
-.hero-market-btn-ghost:hover { background: #fff; color: var(--mkt-deep); }
+.hero-market-btn-ghost:hover { background: var(--mkt-pale); color: var(--mkt-deep); border-color: var(--mkt); box-shadow: none; }
 
 .ph-badge-market {
   color: #fff;
