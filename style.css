@@ -534,14 +534,18 @@ ul { list-style: none; }
 }
 
 .hero-market {
+  --mkt: #F43F5E;
+  --mkt-deep: #BE123C;
+  --mkt-pale: #FFF1F2;
+  --mkt-light: #FECDD3;
   position: relative;
   max-width: 580px;
   margin-bottom: 24px;
   padding: 18px 20px;
-  background: linear-gradient(135deg, var(--accent-pale), var(--accent-light));
-  border: 1px solid var(--accent);
+  background: linear-gradient(135deg, var(--mkt-pale), var(--mkt-light));
+  border: 1px solid var(--mkt);
   border-radius: var(--radius);
-  box-shadow: 0 6px 22px -10px var(--accent);
+  box-shadow: 0 6px 22px -10px var(--mkt);
   overflow: hidden;
 }
 
@@ -552,7 +556,7 @@ ul { list-style: none; }
   left: 0;
   width: 5px;
   height: 100%;
-  background: var(--accent);
+  background: var(--mkt);
 }
 
 .hero-market-title {
@@ -561,7 +565,7 @@ ul { list-style: none; }
   gap: 9px;
   font-size: 1.05rem;
   font-weight: 700;
-  color: var(--accent-deep, var(--primary));
+  color: var(--mkt-deep);
   margin-bottom: 7px;
   letter-spacing: -0.01em;
 }
@@ -571,26 +575,26 @@ ul { list-style: none; }
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 0 0 var(--accent);
+  background: var(--mkt);
+  box-shadow: 0 0 0 0 var(--mkt);
   animation: market-pulse 1.8s infinite;
 }
 
 @keyframes market-pulse {
-  0%   { box-shadow: 0 0 0 0 var(--accent); }
+  0%   { box-shadow: 0 0 0 0 var(--mkt); }
   70%  { box-shadow: 0 0 0 9px transparent; }
   100% { box-shadow: 0 0 0 0 transparent; }
 }
 
 .hero-market-text {
   font-size: 0.9rem;
-  color: var(--primary);
+  color: #7A1228;
   line-height: 1.6;
   font-weight: 400;
   margin-bottom: 14px;
 }
 
-.hero-market-text strong { font-weight: 700; }
+.hero-market-text strong { font-weight: 700; color: var(--mkt-deep); }
 
 .hero-market-cta {
   display: flex;
@@ -606,26 +610,28 @@ ul { list-style: none; }
   font-weight: 600;
   padding: 7px 15px;
   border-radius: 20px;
-  background: var(--accent);
+  background: var(--mkt);
   color: #fff;
-  border: 1px solid var(--accent);
+  border: 1px solid var(--mkt);
   transition: transform 0.15s, box-shadow 0.15s, background 0.15s;
 }
 .hero-market-btn:hover {
   transform: translateY(-1px);
-  box-shadow: 0 5px 14px -6px var(--accent);
+  box-shadow: 0 5px 14px -6px var(--mkt);
+  background: var(--mkt-deep);
+  border-color: var(--mkt-deep);
 }
 
 .hero-market-btn-ghost {
-  background: rgba(255, 255, 255, 0.65);
-  color: var(--primary);
+  background: rgba(255, 255, 255, 0.7);
+  color: var(--mkt-deep);
 }
-.hero-market-btn-ghost:hover { background: #fff; }
+.hero-market-btn-ghost:hover { background: #fff; color: var(--mkt-deep); }
 
 .ph-badge-market {
   color: #fff;
-  background: var(--accent);
-  border-color: var(--accent);
+  background: #F43F5E;
+  border-color: #F43F5E;
 }
 
 @media (prefers-reduced-motion: reduce) {
