@@ -3,7 +3,7 @@
     "year": 2026,
     "title": "Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback",
     "authors": ["Md Zarif Ul Alam", "Alireza Salemi", "Hamed Zamani"],
-    "venue": "arXiv", "venueType": "arxiv", "topics": ["Agents", "RAG"],
+    "venue": "Findings of EMNLP 2026", "venueType": "emnlp", "topics": ["Agents", "RAG"],
     "tags": ["Search Agents", "Query Refinement", "Retriever Training"],
     "desc": "Proposes Critic-R, a framework that improves agentic search through retriever optimization. Combines Critic-R-Zero, an inference-time loop that iteratively rewrites queries using introspective feedback, with Critic-Embed, which trains retrievers from automatically supervised refinement trajectories. Improves retrieval quality and answer accuracy on HotpotQA, 2WikiMultihopQA, MuSiQue, and Bamboogle.",
     "links": { "paper": "https://arxiv.org/abs/2606.00590" }
