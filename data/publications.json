@@ -63,10 +63,10 @@
     "links": { "paper": "https://arxiv.org/abs/2509.19094" }
   },
   {
-    "year": 2025,
+    "year": 2026,
     "title": "LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science",
     "authors": ["Alireza Salemi", "Mihir Parmar", "Palash Goyal", "Yiwen Song", "Jinsung Yoon", "Hamed Zamani", "Hamid Palangi", "Tomas Pfister"],
-    "venue": "arXiv", "venueType": "arxiv", "topics": ["Agents"],
+    "venue": "NeurIPS 2026", "venueType": "neurips", "topics": ["Agents"],
     "tags": ["ReAct", "Multi-Agent", "Data Science"],
     "desc": "Introduces a blackboard-inspired multi-agent architecture where a central agent broadcasts tasks and specialized agents volunteer based on their expertise, eliminating rigid hierarchical coordination. Achieves 13–57% relative improvements on data science benchmarks over the best baseline.",
     "links": { "paper": "https://arxiv.org/abs/2510.01285" }
